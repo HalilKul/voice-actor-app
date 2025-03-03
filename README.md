@@ -32,12 +32,14 @@ Bu proje, yapay zeka destekli seslendirme teknolojisiyle kitapları anında dinl
 
 git clone https://github.com/HalilKul/voiceactor.git
 
-
 2. Projeyi tarayıcıda açın:
 
 cd voiceactor
 open index.html
 
+## Sitenin Linki 
+
+https://voice-actor-app-pi.vercel.app/
 
 ## Katkı Sağlama
 
